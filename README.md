@@ -11,6 +11,7 @@
 配置したいディレクトリに移動し、クローンするだけ（研究室のマシンでできます）
 ```
 cd your/directory
+
 git clone https://github.com/Lemontea014/bone2air_cps
 
 ```
