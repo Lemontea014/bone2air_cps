@@ -26,5 +26,5 @@ git clone https://github.com/Lemontea014/bone2air_cps
 | 編集ソフトウェア  | audacity3.7.1  |
 
 ## reference
--[JVS corpus: free Japanese multi-speaker voice corpus](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1908.06248&sa=D&sntz=1&usg=AOvVaw2j6j5_3wH7e6tdC9PCMQ8z)
--[つくよみちゃんコーパス│声優統計コーパス（JVSコーパス準拠）](https://tyc.rei-yumesaki.net/material/corpus/)
+- [JVS corpus: free Japanese multi-speaker voice corpus](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1908.06248&sa=D&sntz=1&usg=AOvVaw2j6j5_3wH7e6tdC9PCMQ8z)
+- [つくよみちゃんコーパス│声優統計コーパス（JVSコーパス準拠）](https://tyc.rei-yumesaki.net/material/corpus/)
