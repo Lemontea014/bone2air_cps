@@ -12,6 +12,9 @@
 ```
 cd your/directory
 
+```
+```
+
 git clone https://github.com/Lemontea014/bone2air_cps
 
 ```
