@@ -29,7 +29,7 @@ git clone https://github.com/Lemontea014/bone2air_cps
 | ------------- | ------------- |
 | オーディオインターフェース  | Rubix22  |
 | 骨伝導イヤーマイク  | EM20N-T3.5P  |
-| ダイナミックマイクロホン  | ATX-11  |
+| コンデンサマイクロホン  | Earthworks M50  |
 | モニターヘッドホン  | ATH-M50x  |
 | 編集ソフトウェア  | audacity3.7.1  |
 
